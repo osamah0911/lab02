@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Umm Al-Qura University</title>
+	</head>
+	<body>
+		<h1>College of Computer and Information Systems</h1>
+			
+				<img src="https://cdn.pixabay.com/photo/2013/09/11/00/28/language-lab-181083_1280.jpg" height="150px" width="150px" border="1px" alt="" />
+			
+				<p>To seek the development of the applied side in the educational and research process
+				<br>by organizing the use of the technical and laboratory capabilities and expertise 
+				to interact with current and future scientific needs.</p>
+				
+				
+				<p><b>Departments that exist in college</b></p>
+				<ul>
+					<li>Computer Science</li>
+					<li> Computer Engineering</li>
+					<li> Computer Engineering</li>
+				</ul>
+				
+				<a href="https://uqu.edu.sa/cis">This is a link for College of Computer and Information Systems</a>
+
+		
+		<h2>Academics Degrees in the UQU</h2>
+			<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
+</style>
+			<table style="width:50%">
+			<tr>
+				<th>Grade</th>
+				<th colspan="3">Numeric Grade Letter Grade GPA</th>
+			</tr>
+			<tr>
+				<td>Exceptional</td>
+				<td>95% or above</td>
+				<td>A+</td>
+				<td>4.00</td>
+			</tr>
+			<tr>
+				<td>Excellent</td>
+				<td>90-94%</td>
+				<td>A</td>
+				<td>3.75</td>
+			</tr>
+			<tr>
+				<td>Superior</td>
+				<td>85-89%</td>
+				<td>B+</td>
+				<td>3.50</td>
+			</tr>
+			<tr>
+				<td>Very Good</td>
+				<td>80-84%	</td>
+				<td>B</td>
+				<td>3.00</td>
+			</tr>
+			<tr>
+				<td>Above Average</td>
+				<td>75-79%</td>
+				<td>C+</td>
+				<td>2.50</td>
+			</tr>
+            <tr>
+				<td>Good</td>
+				<td>70-74%</td>
+				<td>C</td>
+				<td>2.00</td>
+			</tr>
+			<tr>
+				<td>High-Pass</td>
+				<td>65-69%</td>
+				<td>D+</td>
+				<td>1.50</td>
+			</tr>
+			<tr>
+				<td>Pass</td>
+				<td>60-64%</td>
+				<td>D</td>
+				<td>1.00</td>
+			</tr>
+			<tr>
+				<td>Fail</td>
+				<td>below 60%</td>
+				<td>F</td>
+				<td>0.00</td>
+			</tr>
+			
+	
+	
+	</body>
